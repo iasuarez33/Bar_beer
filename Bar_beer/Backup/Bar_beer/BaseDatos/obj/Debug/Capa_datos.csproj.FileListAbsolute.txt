@@ -1,0 +1,4 @@
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\BaseDatos\obj\Debug\BaseDatos.pdb

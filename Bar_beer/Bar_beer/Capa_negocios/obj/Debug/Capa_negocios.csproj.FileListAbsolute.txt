@@ -1,0 +1,4 @@
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\Capa_negocios\bin\Debug\Capa_negocios.dll
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\Capa_negocios\bin\Debug\Capa_negocios.pdb
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\Capa_negocios\obj\Debug\Capa_negocios.dll
+C:\Users\ADSI A\Documents\Visual Studio 2012\Projects\Bar_beer\Bar_beer\Capa_negocios\obj\Debug\Capa_negocios.pdb
